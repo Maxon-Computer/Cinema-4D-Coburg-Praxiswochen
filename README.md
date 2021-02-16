@@ -1,6 +1,6 @@
 # Praxiswochen Presentation Data
 
- This repository contains the slides, example code and scene files for the Cinema 4D presentation held by [Maxon](https://www.maxon.net/en/), the creators of Cinema 4D, for the 'Praxiswochen' event at the [University of Coburg](https://www.hs-coburg.de/studium/bachelor/technik-informatik/visual-computing.html) in March 2021.
+ This repository contains the slides, example code and scene files for the Cinema 4D presentation held by [Maxon](https://www.maxon.net/en/), the creators of [Cinema 4D](https://www.maxon.net/en/cinema-4d), for the 'Praxiswochen' event at the [University of Coburg](https://www.hs-coburg.de/studium/bachelor/technik-informatik/visual-computing.html) in March 2021.
  
 > :memo: *The provided slides are in German due to this event being held for a German audience, but the code examples and this repository are documented in English.*
 
