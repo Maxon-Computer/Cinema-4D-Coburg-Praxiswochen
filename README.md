@@ -9,7 +9,7 @@
 The event was split into four separate presentations, you can find the description of their accompanying data below.
 
 | Presentation | Description |
-| - | - |
+| :- | :- |
 | Maxon Einführung | Presents Cinema 4D and its capabilities from the end-user perspective. |
 | Maxon Research | Showcasing the computer graphics research done at Maxon and opportunities for students of computer science or similar subjects. |
 | Programmieren für Programmierer | About the real world requirements of developing a software like Cinema 4D.
