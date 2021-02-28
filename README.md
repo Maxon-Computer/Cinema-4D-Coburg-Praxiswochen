@@ -9,7 +9,6 @@
 | File | Description |
 | :- | :- |
 | praxiswochen.pdf | The slides for the presentation written to PDF-A. |
-| praxiswochen.7z | The compressed original PowerPoint file for the presentation, including narration.  |
 | coburg_raycasting_narrative.c4d | The scene file for the ray-casting Python scripting tag example. The code is documented here narratively. |
 | coburg_raycasting_narrative.py | The python file for the ray-casting Python scripting tag example. The code is documented here narratively. |
 | coburg_raycasting_compact.c4d | The scene file for the ray-casting Python scripting tag example. The code is documented here only sparsely. |
