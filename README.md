@@ -13,5 +13,5 @@
 | coburg_raycasting_narrative.py | The python file for the ray-casting Python scripting tag example. The code is documented here narratively. |
 | coburg_raycasting_compact.c4d | The scene file for the ray-casting Python scripting tag example. The code is documented here only sparsely. |
 | coburg_raycasting_compact.py | The python file for the ray-casting Python scripting tag example. The code is documented here only sparsely. |
-| local_thickness_softbodies.c4d | The scene for the softbody simulation show in the presentation. |
+| local_thickness_softbodies.c4d | The scene for the softbody simulation shown in the presentation. |
 
